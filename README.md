@@ -23,6 +23,6 @@ I have a track record of collaborating effectively with cross-functional teams, 
 
 
 ## Get In Touch
-I'm always open to new opportunities and collaborations. If you'd like to discuss a project, have any questions, or just want to say hello, feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/william-gregorio){:target="_blank"}.
+<p>I'm always open to new opportunities and collaborations. If you'd like to discuss a project, have any questions, or just want to say hello, feel free to reach out to me through <a href="https://www.linkedin.com/in/william-gregorio" target="_blank">LinkedIn</a>.</p>
 
 Let's build something amazing together!
