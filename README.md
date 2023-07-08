@@ -1,7 +1,7 @@
 # William Gregorio - Web Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/william-gregorio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf)](https://williamgregorio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/william-gregorio){:target="_blank"}
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf)](https://williamgregorio.com){:target="_blank"}
 
 ## About Me
 Hello! I'm a passionate and experienced web developer with an entrepreneurial business mindset. I specialize in building scalable and efficient web applications, combining my technical expertise with a strategic approach to deliver high-quality solutions that meet development requirements.
@@ -23,6 +23,6 @@ I have a track record of collaborating effectively with cross-functional teams, 
 
 
 ## Get In Touch
-I'm always open to new opportunities and collaborations. If you'd like to discuss a project, have any questions, or just want to say hello, feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/william-gregorio).
+I'm always open to new opportunities and collaborations. If you'd like to discuss a project, have any questions, or just want to say hello, feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/william-gregorio){:target="_blank"}.
 
 Let's build something amazing together!
