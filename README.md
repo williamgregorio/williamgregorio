@@ -5,7 +5,7 @@
 
 <hr>
 Having a constant entrepreneurial business mindset, I specialize in building,testing and deploying scalable and efficient web applications that help real world problems. I combine my technical expertise with a strategic decision making systematic approach to deliver high-quality solutions.
-<br>
+<hr>
 ## Skills
 - Front-end: React.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS
 - State Management: Redux, Redux Saga, MobX
