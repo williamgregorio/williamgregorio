@@ -5,15 +5,11 @@ Having a natural entrepreneurial business mindset, I specialize in building, tes
 
 <span>Skills</span>
 
-- Front-end: React.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS
-- State Management: Redux, Redux Saga, MobX
-- Back-end: Django, Django REST Framework, Python
-- Databases: PostgreSQL, MySQL, SQLite,MongoDB
-- Caching: Redis
-- Version Control: Git, GitHub
-- Deployment: Docker, Heroku, AWS, Linode, Azure
-- CMS: WordPress, Shopify, WebFlow, Squarespace
-- Other Tools: Figma,Salesforce,SendGrid
+- FRONT-END:
+- HTML5 | CSS3 | JavaScript | TypeScript | Tailwind CSS | Next.js | Figma | Apexcharts.js | React.js | jQuery | Cypress | Remix.js
+**************************************************************************************************
+- BACK-END:
+- Node.js | Python | PHP | Express.js | Django | Nginx | Apache | DRF | Docker | MYSQL | SQLite3 | Redis | PostgreSQL | Postman | Jenkins | AWS | Linode* | Azure | WordPress | Shopify
 
 <hr>
 
