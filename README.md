@@ -4,10 +4,10 @@ Having a natural hard work ethic mindset, I'm able to specialize in building, te
 <hr>
 
 ## Technical Skills
-###FRONT-END:
+FRONT-END:
 - HTML5 | CSS3 | JavaScript | TypeScript | Tailwind CSS | Next.js | Figma | Apexcharts.js | React.js | jQuery | Cypress | Remix.js
 **************************************************************************************************
-- BACK-END:
+BACK-END:
 - Node.js | Python | PHP | Express.js | Django | Nginx | Apache | DRF | Docker | MYSQL | SQLite3 | Redis | PostgreSQL | Postman | Jenkins | AWS | Linode* | Azure | WordPress | Shopify
 
 <hr>
