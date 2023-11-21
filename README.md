@@ -4,27 +4,6 @@
 With a strong work ethic, I specialize in crafting, testing, deploying, and maintaining efficient web applications that offer problem-solving solutions. My blend of technical expertise and strategic decision-making ensures the delivery of high-quality solutions.</p>
 <hr>
 <center>
-
-| **FRONT-END**                            | **BACK-END**                               |
-| ---------------------------------------- | ------------------------------------------ |
-| HTML5                                    | Node.js                                    |
-| CSS3                                     | Python                                     |
-| JavaScript                               | PHP                                        |
-| TypeScript                               | Express.js                                 |
-| Tailwind CSS                             | Django                                     |
-| Next.js                                  | Nginx                                      |
-| Figma                                    | Apache                                     |
-| Apexcharts.js                            | DRF (Django Rest Framework)                |
-| React.js                                 | Docker                                     |
-| jQuery                                   | MySQL                                      |
-| Cypress                                  | SQLite3                                    |
-| Remix.js                                 | Redis                                      |
-                                           | PostgreSQL                                 |
-
-</center>
-
-<center>
-
 <table>
   <tr>
     <th colspan="2">FRONT-END</th>
@@ -67,9 +46,7 @@ With a strong work ethic, I specialize in crafting, testing, deploying, and main
     <td>Redis</td>
   </tr>
 </table>
-
 </center>
-
 <hr>
 <h4>Connect</h4>
 
