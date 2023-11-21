@@ -1,4 +1,5 @@
-![Alt Text](https://blog.williamgregorio.com/wp-content/uploads/2023/10/svg-logo.svg)
+![Alt Text](https://blog.williamgregorio.com/wp-content/uploads/2023/10/svg-logo.svg | width=100)
+
 
 <hr>
 With a strong work ethic, I specialize in crafting, testing, deploying, and maintaining efficient web applications that offer problem-solving solutions. My blend of technical expertise and strategic decision-making ensures the delivery of high-quality solutions.
