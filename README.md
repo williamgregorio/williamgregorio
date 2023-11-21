@@ -1,26 +1,7 @@
-<img src="https://blog.williamgregorio.com/wp-content/uploads/2023/10/svg-logo.svg" width="50" height="50"/>
-<table>
-  <tr>
-    <th>Header 1</th>
-    <th>Header 2</th>
-  </tr>
-  <tr>
-    <td>Row 1, Cell 1</td>
-    <td>Row 1, Cell 2</td>
-  </tr>
-  <tr>
-    <td>Row 2, Cell 1</td>
-    <td>Row 2, Cell 2</td>
-  </tr>
-</table>
-
-
-| Logo |        |        | [Menu Link One](#menu-link-one) | [Menu Link Two](#menu-link-two) |
-|------|--------|--------|--------------------------------|---------------------------------|
-| ![Logo](link_to_logo) |        |        |                                  |                                 |
-
+<img src="https://blog.williamgregorio.com/wp-content/uploads/2023/10/svg-logo.svg" width="25" height="25"/>
 <hr>
-With a strong work ethic, I specialize in crafting, testing, deploying, and maintaining efficient web applications that offer problem-solving solutions. My blend of technical expertise and strategic decision-making ensures the delivery of high-quality solutions.
+<p style="text-align:center;">
+With a strong work ethic, I specialize in crafting, testing, deploying, and maintaining efficient web applications that offer problem-solving solutions. My blend of technical expertise and strategic decision-making ensures the delivery of high-quality solutions.</p>
 <hr>
 
 
