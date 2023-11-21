@@ -52,4 +52,3 @@ With a strong work ethic, I specialize in crafting, testing, deploying, and main
 <h4>Connect</h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/william-gregorio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf)](https://williamgregorio.com)
