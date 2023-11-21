@@ -3,17 +3,9 @@
 <p align="center">
 With a strong work ethic, I specialize in crafting, testing, deploying, and maintaining efficient web applications that offer problem-solving solutions. My blend of technical expertise and strategic decision-making ensures the delivery of high-quality solutions.</p>
 <hr>
-
-
-FRONT-END:
-- HTML5 | CSS3 | JavaScript | TypeScript | Tailwind CSS | Next.js | Figma | Apexcharts.js | React.js | jQuery | Cypress | Remix.js
-**************************************************************************************************
-BACK-END:
-- Node.js | Python | PHP | Express.js | Django | Nginx | Apache | DRF | Docker | MYSQL | SQLite3 | Redis | PostgreSQL | Postman | Jenkins | AWS | Linode* | Azure | WordPress | Shopify
-
 <center>
 
-| **FRONT-END**                            | **BACK-END**                                |
+| **FRONT-END**                            | **BACK-END**                               |
 | ---------------------------------------- | ------------------------------------------ |
 | HTML5                                    | Node.js                                    |
 | CSS3                                     | Python                                     |
@@ -22,14 +14,13 @@ BACK-END:
 | Tailwind CSS                             | Django                                     |
 | Next.js                                  | Nginx                                      |
 | Figma                                    | Apache                                     |
-| Apexcharts.js                            | DRF (Django Rest Framework)                 |
+| Apexcharts.js                            | DRF (Django Rest Framework)                |
 | React.js                                 | Docker                                     |
 | jQuery                                   | MySQL                                      |
 | Cypress                                  | SQLite3                                    |
 | Remix.js                                 | Redis                                      |
-                                          | PostgreSQL                                 |
+                                           | PostgreSQL                                 |
 </center>
-
 <hr>
 <h4>Connect</h4>
 
