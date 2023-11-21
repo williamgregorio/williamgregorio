@@ -14,6 +14,11 @@
   </tr>
 </table>
 
+
+| Logo |        |        | [Menu Link One](#menu-link-one) | [Menu Link Two](#menu-link-two) |
+|------|--------|--------|--------------------------------|---------------------------------|
+| ![Logo](link_to_logo) |        |        |                                  |                                 |
+
 <hr>
 With a strong work ethic, I specialize in crafting, testing, deploying, and maintaining efficient web applications that offer problem-solving solutions. My blend of technical expertise and strategic decision-making ensures the delivery of high-quality solutions.
 <hr>
