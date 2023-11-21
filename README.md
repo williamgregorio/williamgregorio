@@ -12,7 +12,7 @@ BACK-END:
 - Node.js | Python | PHP | Express.js | Django | Nginx | Apache | DRF | Docker | MYSQL | SQLite3 | Redis | PostgreSQL | Postman | Jenkins | AWS | Linode* | Azure | WordPress | Shopify
 
 <hr>
-
 <h4>Connect</h4>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/william-gregorio)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf)](https://williamgregorio.com)
