@@ -1,6 +1,7 @@
+![Alt Text](https://blog.williamgregorio.com/wp-content/uploads/2023/10/svg-logo.svg)
 
 <hr>
-Having a natural hard work ethic mindset, I'm able to specialize in building, testing, deploying, and maintaining scalable efficient web applications that solve problems in return. I combine my technical expertise with a strategic systematic decision-making approach to deliver high-quality solutions.
+With a strong work ethic, I specialize in crafting, testing, deploying, and maintaining efficient web applications that offer problem-solving solutions. My blend of technical expertise and strategic decision-making ensures the delivery of high-quality solutions.
 <hr>
 
 
