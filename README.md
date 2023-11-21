@@ -1,9 +1,9 @@
 
 <hr>
-Having a natural hard work ethic mindset, I'm able to specialize in building, testing, deploying and maintaining scalable efficient web applications that solve problems in return. I combine my technical expertise with a strategic systematic decision making approach to deliver high quality solutions.
+Having a natural hard work ethic mindset, I'm able to specialize in building, testing, deploying, and maintaining scalable efficient web applications that solve problems in return. I combine my technical expertise with a strategic systematic decision-making approach to deliver high-quality solutions.
 <hr>
 
-## Technical Skills
+
 FRONT-END:
 - HTML5 | CSS3 | JavaScript | TypeScript | Tailwind CSS | Next.js | Figma | Apexcharts.js | React.js | jQuery | Cypress | Remix.js
 **************************************************************************************************
