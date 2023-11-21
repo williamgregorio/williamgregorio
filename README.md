@@ -1,4 +1,4 @@
-<img src="https://blog.williamgregorio.com/wp-content/uploads/2023/10/svg-logo.svg" width="25" height="25"/>
+<img src="https://blog.williamgregorio.com/wp-content/uploads/2023/10/svg-logo.svg" width="25" height="25" align="right"/>
 <a align="right" href="#">Link</a>
 <hr>
 <p align="center">
