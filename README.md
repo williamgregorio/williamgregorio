@@ -47,6 +47,7 @@ With a strong work ethic, I specialize in crafting, testing, deploying, and main
   </tr>
 </table>
 </center>
+<img src="https://blog.williamgregorio.com/wp-content/uploads/2023/10/svg-logo.svg" width="25" height="25" align="right"/>
 <hr>
 <h4>Connect</h4>
 
