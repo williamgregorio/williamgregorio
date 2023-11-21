@@ -11,6 +11,25 @@ FRONT-END:
 BACK-END:
 - Node.js | Python | PHP | Express.js | Django | Nginx | Apache | DRF | Docker | MYSQL | SQLite3 | Redis | PostgreSQL | Postman | Jenkins | AWS | Linode* | Azure | WordPress | Shopify
 
+<center>
+
+| **FRONT-END**                            | **BACK-END**                                |
+| ---------------------------------------- | ------------------------------------------ |
+| HTML5                                    | Node.js                                    |
+| CSS3                                     | Python                                     |
+| JavaScript                               | PHP                                        |
+| TypeScript                               | Express.js                                 |
+| Tailwind CSS                             | Django                                     |
+| Next.js                                  | Nginx                                      |
+| Figma                                    | Apache                                     |
+| Apexcharts.js                            | DRF (Django Rest Framework)                 |
+| React.js                                 | Docker                                     |
+| jQuery                                   | MySQL                                      |
+| Cypress                                  | SQLite3                                    |
+| Remix.js                                 | Redis                                      |
+                                          | PostgreSQL                                 |
+</center>
+
 <hr>
 <h4>Connect</h4>
 
