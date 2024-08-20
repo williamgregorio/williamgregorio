@@ -2,7 +2,7 @@
 <hr>
 
 
-<table cellpadding="0" cellspacing="0" border="2" style="margin="0 auto;" >
+<table >
   <tbody>
     <tr>
       <td>
