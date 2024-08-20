@@ -2,23 +2,21 @@
 <hr>
 
 
-<table cellpadding="0" cellspacing="0" >
+<table cellpadding="0" cellspacing="0" border="2" style="margin="0 auto;" >
   <tbody>
     <tr>
       <td>
-        <h3>Dashboard Analytics</h3>
+        <h3>Developer Analytics</h3>
       </td>
     </tr>
     <tr>
       <td>
         <h4>Most used languages</h4>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamgregorio&layout=pie&hide_title=true&langs_count=5" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamgregorio&layout=pie&hide_title=true&langs_count=5" />
       </td>
-    </tr>
-    <tr>
       <td>
         <h4>Lastest repo</h4>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgregorio&repo=shopify_theme" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=williamgregorio&repo=shopify_theme" />
       </td>
     </tr>
   </tbody>
