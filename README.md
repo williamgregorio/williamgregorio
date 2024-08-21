@@ -6,7 +6,7 @@
   <h3>Developer Analytics</h3>
       <div>
         <h4>Most used languages</h4>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamgregorio&layout=pie&hide_title=true&langs_count=5" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamgregorio&layout=pie&hide_title=true&langs_count=6" />
       </div>
       <div>
         <h4>Lastest repo</h4>
