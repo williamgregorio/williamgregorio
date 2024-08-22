@@ -10,7 +10,7 @@
       </div>
       <div>
         <h4>Lastest repo</h4>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=williamgregorio&repo=shopify_theme" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=williamgregorio&repo=liberpdf" />
       </div>
 </div>
 
