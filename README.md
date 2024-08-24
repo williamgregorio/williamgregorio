@@ -39,7 +39,7 @@
           <div>
             <div>
               <a href="https://github.com/williamgregorio/williamgregorio.github.io/blob/main/emails/stripe-transactional-payment-receipt.html">View code</a>
-              <a href="https://williamgregorio.github.io/assets/stripe-first-transaction.png">Live demo</a>
+              <a href="https://williamgregorio.github.io/emails/stripe-transactional-payment-receipt.html">Live demo</a>
             </div>
             <br>
             <a href="https://williamgregorio.github.io/emails/stripe-transactional-payment-receipt.html"><img src="https://williamgregorio.github.io/assets/stripe-first-transaction.png"  height="400"/></a>
