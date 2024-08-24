@@ -9,7 +9,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamgregorio&layout=pie&hide_title=true&langs_count=7" />
       </div>
       <div>
-        <h4>Lastest repo</h4>
+        <h4>Lastest project</h4>
         <a href="https://github.com/williamgregorio/liberpdf" target="_blank" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=williamgregorio&repo=liberpdf" /></a>
       </div>
 </div>
