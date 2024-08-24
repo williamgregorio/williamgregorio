@@ -32,7 +32,7 @@
               <a href="https://williamgregorio.github.io/emails/katz-promotional-product-announcement.html">Live demo</a>
             </div>
             <br>
-            <a href="https://williamgregorio.github.io/emails/katz-promotional-product-announcement.html"><img src="https://williamgregorio.github.io/assets/katz-newsletter-portfolio.png" height="400" width="180" /></a>
+            <a href="https://williamgregorio.github.io/emails/katz-promotional-product-announcement.html"><img src="https://williamgregorio.github.io/assets/katz-newsletter-portfolio.png" height="400" /></a>
           </div>
         </td>
           <td>
@@ -42,7 +42,7 @@
               <a href="https://williamgregorio.github.io/assets/stripe-first-transaction.png">Live demo</a>
             </div>
             <br>
-            <a href="https://williamgregorio.github.io/emails/stripe-transactional-payment-receipt.html"><img src="https://williamgregorio.github.io/assets/stripe-first-transaction.png"  height="400" width="180"/></a>
+            <a href="https://williamgregorio.github.io/emails/stripe-transactional-payment-receipt.html"><img src="https://williamgregorio.github.io/assets/stripe-first-transaction.png"  height="400"/></a>
           </div>
         </td>
       </tr>
