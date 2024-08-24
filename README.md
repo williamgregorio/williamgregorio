@@ -32,25 +32,23 @@
               <a href="https://williamgregorio.github.io/emails/katz-promotional-product-announcement.html">Live demo</a>
             </div>
             <br>
-            <img src="https://williamgregorio.github.io/assets/katz-newsletter-portfolio.png" height="400" width="180" />
+            <a href="https://williamgregorio.github.io/emails/katz-promotional-product-announcement.html"><img src="https://williamgregorio.github.io/assets/katz-newsletter-portfolio.png" height="400" width="180" /></a>
           </div>
         </td>
           <td>
           <div>
             <div>
-              <a href="https://williamgregorio.github.io/emails/stripe-transactional-payment-receipt.html">View code</a>
-              <a href="https://williamgregorio.github.io/emails/katz-promotional-product-announcement.html">Live demo</a>
+              <a href="https://github.com/williamgregorio/williamgregorio.github.io/blob/main/emails/stripe-transactional-payment-receipt.html">View code</a>
+              <a href="https://williamgregorio.github.io/assets/stripe-first-transaction.png">Live demo</a>
             </div>
             <br>
-            <img src="https://williamgregorio.github.io/assets/stripe-first-transaction.png"  height="400" width="180"/>
+            <a href="https://williamgregorio.github.io/emails/stripe-transactional-payment-receipt.html"><img src="https://williamgregorio.github.io/assets/stripe-first-transaction.png"  height="400" width="180"/></a>
           </div>
         </td>
       </tr>
     </tbody>
   </table>
 </div>
-
-
 
 <img src="https://williamgregorio.github.io/assets/logo.png" width="25" height="25" align="right"/>
 <hr>
