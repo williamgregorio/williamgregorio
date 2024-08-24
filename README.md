@@ -13,6 +13,43 @@
         <a href="https://github.com/williamgregorio/liberpdf" target="_blank" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=williamgregorio&repo=liberpdf" /></a>
       </div>
 </div>
+<br>
+<div>
+  <h3>Emails</h3>
+  <table>
+    <thead>
+      <tr>
+        <td><h5>Type: Product Announcements</h5></td>
+        <td><h5>Type: Payment Receipt</h5></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <div>
+            <div>
+              <a href="https://github.com/williamgregorio/williamgregorio.github.io/blob/main/emails/katz-promotional-product-announcement.html">View code</a>
+              <a href="https://williamgregorio.github.io/emails/katz-promotional-product-announcement.html">Live demo</a>
+            </div>
+            <br>
+            <img src="https://williamgregorio.github.io/assets/katz-newsletter-portfolio.png" height="400" width="180" />
+          </div>
+        </td>
+          <td>
+          <div>
+            <div>
+              <a href="https://williamgregorio.github.io/emails/stripe-transactional-payment-receipt.html">View code</a>
+              <a href="https://williamgregorio.github.io/emails/katz-promotional-product-announcement.html">Live demo</a>
+            </div>
+            <br>
+            <img src="https://williamgregorio.github.io/assets/stripe-first-transaction.png"  height="400" width="180"/>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 
 <img src="https://williamgregorio.github.io/assets/logo.png" width="25" height="25" align="right"/>
