@@ -22,18 +22,22 @@
 </div>
 <br>
 <div>
+  
   <hr>
   <h3>Email Development</h3>
   <h4>View emails</h4>
   <div>
+    <div>
       <a target="_blank" href="https://williamgregorio.github.io/emails/katz-promotional-product-announcement.html"><img align="left" src="https://williamgregorio.github.io/assets/katz-newsletter-portfolio.png" height="400" /></a>
     </div>
   </div>
+  
   <div>
     <div>
       <a target="_blank" href="https://williamgregorio.github.io/emails/instacart-discount-promotional.html"><img align="center" src="https://williamgregorio.github.io/assets/instacart-discount-promo.png"  height="400"/></a>
     </div>
   </div>
+  
 </div>
 <br>
 
