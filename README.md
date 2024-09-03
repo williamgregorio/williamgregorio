@@ -11,8 +11,6 @@
       </div>
       <div>
         <h4>Lastest projects</h4>
-        <a href="https://github.com/williamgregorio/liberpdf" target="_blank" ><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=williamgregorio&repo=liberpdf" /></a>
-        <a href="https://github.com/williamgregorio/liberpdf" target="_blank" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=williamgregorio&repo=nvim-mjml" /></a>
       </div>
   <br>
       <div>
