@@ -12,6 +12,10 @@
         <h4>Lastest project</h4>
         <a href="https://github.com/williamgregorio/liberpdf" target="_blank" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=williamgregorio&repo=liberpdf" /></a>
       </div>
+      <div>
+          <h4>Contributions over the last 7 days</h4>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=williamgregorio&theme=github-light&hide_title=true&hide_border=true&radius=12&height=300&days=7" />
+      </div>
 </div>
 <br>
 <div>
