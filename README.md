@@ -10,9 +10,11 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamgregorio&layout=pie&hide_title=true&langs_count=7" />
       </div>
       <div>
-        <h4>Lastest project</h4>
-        <a href="https://github.com/williamgregorio/liberpdf" target="_blank" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=williamgregorio&repo=liberpdf" /></a>
+        <h4>Lastest projects</h4>
+        <a href="https://github.com/williamgregorio/liberpdf" target="_blank" ><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=williamgregorio&repo=liberpdf" /></a>
+        <a href="https://github.com/williamgregorio/liberpdf" target="_blank" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=williamgregorio&repo=nvim-mjml" /></a>
       </div>
+  <br>
       <div>
           <h4>Contributions over the last 7 days</h4>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=williamgregorio&theme=github-light&hide_title=true&hide_border=true&radius=12&height=300&days=7" />
@@ -20,7 +22,9 @@
 </div>
 <br>
 <div>
-  <h3>View emails</h3>
+  <hr>
+  <h3>Email Development</h3>
+  <h4>View emails</h4>
   <div>
       <a target="_blank" href="https://williamgregorio.github.io/emails/katz-promotional-product-announcement.html"><img align="left" src="https://williamgregorio.github.io/assets/katz-newsletter-portfolio.png" height="400" /></a>
     </div>
