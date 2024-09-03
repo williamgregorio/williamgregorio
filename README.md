@@ -42,7 +42,7 @@
           <td>
           <div>
             <div>
-              <a href="https://github.com/williamgregorio/williamgregorio.github.io/blob/main/emails/stripe-transactional-payment-receipt.html">View code</a> |
+              <a href="https://github.com/williamgregorio/williamgregorio.github.io/blob/main/emails/instacart-discount-promotional.html">View code</a> |
               <a href="https://williamgregorio.github.io/emails/stripe-transactional-payment-receipt.html">Live demo</a>
             </div>
             <br>
