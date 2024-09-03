@@ -24,7 +24,7 @@
     <thead>
       <tr>
         <td><h5>Type: Product Announcements</h5></td>
-        <td><h5>Type: Payment Receipt</h5></td>
+        <td><h5>Type: Sales and Discounts</h5></td>
       </tr>
     </thead>
     <tbody>
@@ -46,7 +46,7 @@
               <a href="https://williamgregorio.github.io/emails/stripe-transactional-payment-receipt.html">Live demo</a>
             </div>
             <br>
-            <a href="https://williamgregorio.github.io/emails/stripe-transactional-payment-receipt.html"><img src="https://williamgregorio.github.io/assets/stripe-first-transaction.png"  height="400"/></a>
+            <a href="https://williamgregorio.github.io/emails/instacart-discount-promotional.html"><img src="https://williamgregorio.github.io/assets/instacart-discount-promo.png"  height="400"/></a>
           </div>
         </td>
       </tr>
