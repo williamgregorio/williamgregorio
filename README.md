@@ -20,39 +20,20 @@
 <br>
 <div>
   <h3>Emails</h3>
-  <table>
-    <thead>
-      <tr>
-        <td><h5>Type: Product Announcements</h5></td>
-        <td><h5>Type: Sales and Discounts</h5></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <div>
-            <div>
-              <a href="https://github.com/williamgregorio/williamgregorio.github.io/blob/main/emails/katz-promotional-product-announcement.html">View code</a> |
-              <a href="https://williamgregorio.github.io/emails/katz-promotional-product-announcement.html">Live demo</a>
-            </div>
-            <br>
-            <a href="https://williamgregorio.github.io/emails/katz-promotional-product-announcement.html"><img src="https://williamgregorio.github.io/assets/katz-newsletter-portfolio.png" height="400" /></a>
-          </div>
-        </td>
-          <td>
-          <div>
-            <div>
-              <a href="https://github.com/williamgregorio/williamgregorio.github.io/blob/main/emails/instacart-discount-promotional.html">View code</a> |
-              <a href="https://williamgregorio.github.io/emails/stripe-transactional-payment-receipt.html">Live demo</a>
-            </div>
-            <br>
-            <a href="https://williamgregorio.github.io/emails/instacart-discount-promotional.html"><img src="https://williamgregorio.github.io/assets/instacart-discount-promo.png"  height="400"/></a>
-          </div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <div align="left">
+    <div>
+      <h4>Product Announcements</h4>
+      <a href="https://williamgregorio.github.io/emails/katz-promotional-product-announcement.html"><img align="left" src="https://williamgregorio.github.io/assets/katz-newsletter-portfolio.png" height="400" /></a>
+    </div>
+    <div>
+      <h4>Sales and Discounts</h4>
+      <a href="https://williamgregorio.github.io/emails/instacart-discount-promotional.html"><img align="center" src="https://williamgregorio.github.io/assets/instacart-discount-promo.png"  height="400"/></a>
+    </div>
+  </div>
 </div>
+
+
+
 
 <img src="https://williamgregorio.github.io/assets/logo.png" width="25" height="25" align="right"/>
 <hr>
