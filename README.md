@@ -9,11 +9,6 @@
         <h4>Most used languages</h4>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamgregorio&layout=pie&hide_title=true&langs_count=8" />
       </div>
-      <div>
-        <h4>Lastest projects</h4>
-        <a href="https://github.com/williamgregorio/liberpdf" ><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=williamgregorio&repo=liberpdf" /></a>
-        <a href="https://github.com/williamgregorio/nvim-mjml" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=williamgregorio&repo=nvim-mjml" /></a>
-      </div>
   <br>
       <div>
           <h4>Contributions over the last 7 days</h4>
@@ -24,8 +19,8 @@
 <div>
   
   <hr>
-  <h3>Email Development</h3>
-  <h4>View emails</h4>
+  <h3>Email Projects</h3>
+  <h4>View emails (ctrl+click) for new tab</h4>
   <div>
     <div>
       <a target="_blank" href="https://williamgregorio.com/emails/katz-promotional-product-announcement.html"><img align="left" src="https://williamgregorio.com/assets/katz-newsletter-portfolio.png" height="400" /></a>
