@@ -4,11 +4,6 @@
 
 
 <div>
-  <h2>Developer Analytics</h2>
-      <div>
-        <h6>Current tool usage:</h6>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamgregorio&layout=pie&hide_title=true&langs_count=8&hide=html" />
-      </div>
   <br>
 </div>
 <br>
